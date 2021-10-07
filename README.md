@@ -1,11 +1,11 @@
 # An Investigation of the Effectiveness of Phase for Audio Classification
 
 - Authors: Shunsuke Hidaka, Kohei Wakamiya, Tokihiko Kaburaki
-<!-- - Paper: []() -->
+- Paper: [https://arxiv.org/abs/2110.02878](https://arxiv.org/abs/2110.02878)
 
 ## About
 
-This repository contains the implementation of "[An Investigation of the Effectiveness of Phase for Audio Classification]()".
+This repository contains the implementation of "[An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878)".
 In this paper, we proposed LEAF-extended, a learnable front-end that can compute the phase and its derivatives.
 Our code is written by using PyTorch.
 The original LEAF implementation, which calculates only the amplitude, is available at the following link: [https://github.com/google-research/leaf-audio](https://github.com/google-research/leaf-audio) (TensorFlow implementation).
@@ -41,15 +41,15 @@ PyYAML = "^5.4.1"
 torch = "^1.8.1"
 ```
 
-<!-- ## Reference
+## Reference
 
-Link: [An Investigation of the Effectiveness of Phase for Audio Classification]()
+Link: [An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878)
 
 ```bibtex
 @article{hidaka2021investigation,
   title={An Investigation of the Effectiveness of Phase for Audio Classification},
   author={Hidaka, Shunsuke and Wakamiya, Kohei and Kaburaki, Tokihiko},
-  journal={arXiv preprint arXiv:xxxx.xxxx},
+  journal={arXiv preprint arXiv:2110.02878},
   year={2021}
 }
-``` -->
+```
