@@ -1,6 +1,6 @@
 # An Investigation of the Effectiveness of Phase for Audio Classification
 
-- Authors: Shunsuke Hidaka, Kohei Wakamiya, Tokihiko Kaburaki
+- Authors: Shunsuke Hidaka, Kohei Wakamiya, Tokihiko Kaburagi
 - Paper: [https://arxiv.org/abs/2110.02878](https://arxiv.org/abs/2110.02878)
 
 ## About
