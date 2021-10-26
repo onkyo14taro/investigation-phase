@@ -48,7 +48,7 @@ Link: [An Investigation of the Effectiveness of Phase for Audio Classification](
 ```bibtex
 @article{hidaka2021investigation,
   title={An Investigation of the Effectiveness of Phase for Audio Classification},
-  author={Hidaka, Shunsuke and Wakamiya, Kohei and Kaburaki, Tokihiko},
+  author={Hidaka, Shunsuke and Wakamiya, Kohei and Kaburagi, Tokihiko},
   journal={arXiv preprint arXiv:2110.02878},
   year={2021}
 }
