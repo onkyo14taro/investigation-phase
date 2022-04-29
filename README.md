@@ -1,11 +1,11 @@
 # An Investigation of the Effectiveness of Phase for Audio Classification
 
 - Authors: Shunsuke Hidaka, Kohei Wakamiya, Tokihiko Kaburagi
-- Paper: [https://arxiv.org/abs/2110.02878](https://arxiv.org/abs/2110.02878)
+- Paper: [https://ieeexplore.ieee.org/document/9746037](https://ieeexplore.ieee.org/document/9746037)
 
 ## About
 
-This repository contains the implementation of "[An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878)".
+This repository contains the implementation of "[An Investigation of the Effectiveness of Phase for Audio Classification](https://ieeexplore.ieee.org/document/9746037)".
 In this paper, we proposed LEAF-extended, a learnable front-end that can compute the phase and its derivatives.
 Our code is written by using PyTorch.
 The original LEAF implementation, which calculates only the amplitude, is available at the following link: [https://github.com/google-research/leaf-audio](https://github.com/google-research/leaf-audio) (TensorFlow implementation).
@@ -43,13 +43,16 @@ torch = "^1.8.1"
 
 ## Reference
 
-Link: [An Investigation of the Effectiveness of Phase for Audio Classification](https://arxiv.org/abs/2110.02878)
+Link: [An Investigation of the Effectiveness of Phase for Audio Classification](https://ieeexplore.ieee.org/document/9746037)
 
 ```bibtex
-@article{hidaka2021investigation,
-  title={An Investigation of the Effectiveness of Phase for Audio Classification},
+@INPROCEEDINGS{9746037,
   author={Hidaka, Shunsuke and Wakamiya, Kohei and Kaburagi, Tokihiko},
-  journal={arXiv preprint arXiv:2110.02878},
-  year={2021}
-}
+  booktitle={ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={An Investigation of the Effectiveness of Phase for Audio Classification}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={3708-3712},
+  doi={10.1109/ICASSP43922.2022.9746037}}
 ```
